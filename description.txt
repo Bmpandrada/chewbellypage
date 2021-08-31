@@ -1,0 +1,4 @@
+colors:
+logo-header: #ebad56
+.navbar.sticky:#533101;
+menu-bar:#ebad56
